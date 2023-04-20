@@ -1,70 +1,46 @@
-# Getting Started with Create React App
+## Projects Details
+```
+This React application develop using context api , redux ,react router dom
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+In this react application hava many compponnets Home, navabr, login,product ,contact....
 
-## Available Scripts
+when app startsfirstly sho the login page without login you can't able se anything 
+this have products componnets where you can see product item and and onclick on button and link you can see product details and and you can add item in  the cart,
+in this appp have user components where you can see users is table format and onchange on radio button task will show according to you,
 
-In the project directory, you can run:
+```
 
-### `npm start`
+## Home components 
+```
+Home componnets have your all product show in card format and have a button to show details 
+```
+## Products components
+```
+products componnets have your all product item link according to category , before this you have to click on category lin to show the link 
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+once you clickon link its show the details and also added to your item in cart .
+```
+## Home components 
+```
+Home componnets have your all product show in card format and have a button to show details 
+```
+## user components  
+```
+user components have your user details and onchange on radio button you can see data according whatever you want to see.
+```
+## cart components  
+```
+cart componnets have the item which is you have added
+```
+## cart components  
+```
+cart componnets have the item which is you have added
+```
+## contact components  
+```
+contact page have nothng becuase htis under development
+```
+## Logout button  
+```
+when you click on logout button you can checkout
+```
